@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.KMPAurora
+Exec=/usr/bin/ru.template.KMPAurora
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=KMPAurora
+ExecDBus=/usr/bin/ru.template.KMPAurora
